@@ -1,5 +1,7 @@
 # Afterhours BlackOut
 
+[🇻🇳 Xem bản tiếng Việt](README.vi.md)
+
 Menu-bar app for macOS that turns the built-in MacBook display **off for real**
 (like unplugging a cable) while you work on an external monitor — and brings it
 back automatically when the cable is pulled.
